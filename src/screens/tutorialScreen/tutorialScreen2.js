@@ -24,7 +24,7 @@ class TutorialScreen2 extends Component {
         <View>
         <Text style={styles.title}>Welcome to the Tutorial</Text>
         <Text style={styles.subtitle}>
-          Learn how to use this app more effectively in detail.
+          Learn how to use this app effectively in detail.
         </Text>
         </View>
         <View style={styles.tutoCont}>
